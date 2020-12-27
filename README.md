@@ -1,0 +1,1 @@
+# array_basic_in_c
